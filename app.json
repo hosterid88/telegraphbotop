@@ -7,7 +7,7 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Add your own bot token. Get token from Bot Father. https://t.me/BotFather",
-            "value": ""
+            "value": "8275401252:AAE4A2rtBF2_fKZKeqJ0RWHNr47kXMALqBE"
         },
         "SHOW_SOURCE_URL": {
             "description": "Show source url in the end of the message.",
