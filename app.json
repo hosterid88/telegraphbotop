@@ -1,7 +1,7 @@
 {
     "name": "Telegra.ph upbot",
     "description": "You can upload photos on telegra.ph using this bot.",
-    "repository": "https://github.com/hasibulkabir/telegraphbot",
+    "repository": "https://github.com/hosterid88/telegraphbotop.git",
     "logo": "https://raw.githubusercontent.com/HasibulKabir/Raw-Package/master/IMG_20200526_114905_024.jpg",
     "keywords": ["bot", "telegram", "telegra.ph"],
     "env": {
